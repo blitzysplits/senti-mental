@@ -2,6 +2,7 @@
         background-color:rgb(76, 68, 133);
         color:aliceblue;
         font-family:helvetica;
+        font-size:13px;
       }
 
       #maindiv{
@@ -27,4 +28,5 @@
       /*senti-mental logo*/
       #sentismall{
         color:aliceblue;
+        text-decoration:none;
       }
