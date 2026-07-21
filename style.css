@@ -2,6 +2,9 @@
         background-color:rgb(76, 68, 133);
         color:aliceblue;
         font-family:helvetica;
+      }
+
+      p, a:not(.navbutton){
         font-size:13px;
       }
 
