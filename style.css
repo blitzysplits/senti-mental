@@ -1,0 +1,26 @@
+body{
+        background-color:rgb(76, 68, 133);
+      }
+
+      #maindiv{
+        padding:20px;
+        margin:0% 30%;
+      }
+
+      #navbar{
+        display:flex;
+        margin:0px 10px;
+      }
+
+      a{
+        color:antiquewhite;
+        text-decoration:none;
+      }
+
+      a:hover{
+        font-size:15px;
+      }
+
+      small{
+        color:aliceblue;
+      }
