@@ -1,5 +1,6 @@
     body{
         background-color:rgb(76, 68, 133);
+        color:aliceblue;
         font-family:helvetica;
       }
 
@@ -16,7 +17,7 @@
       .navbutton{
         color:antiquewhite;
         text-decoration:none;
-        margin:0px 10px;
+        margin:0px 10px 0px 0px;
       }
 
       .navbutton:hover{
