@@ -1,5 +1,6 @@
-body{
+    body{
         background-color:rgb(76, 68, 133);
+        font-family:helvetica;
       }
 
       #maindiv{
@@ -7,20 +8,22 @@ body{
         margin:0% 30%;
       }
 
+      /*navigation*/
       #navbar{
         display:flex;
+      }
+
+      .navbutton{
+        color:antiquewhite;
+        text-decoration:none;
         margin:0px 10px;
       }
 
-      a{
-        color:antiquewhite;
-        text-decoration:none;
-      }
-
-      a:hover{
+      .navbutton:hover{
         font-size:15px;
       }
 
-      small{
+      /*senti-mental logo*/
+      #sentismall{
         color:aliceblue;
       }
