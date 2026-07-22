@@ -40,7 +40,7 @@
         margin:0% 2%;
         padding:5px;
         background-color:rgb(69, 62, 122);
-        display:grid;
+        display:flex;
       }
 
       .artwork{ /*individual artpieces*/
