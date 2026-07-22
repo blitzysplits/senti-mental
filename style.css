@@ -18,7 +18,7 @@
         display:flex;
       }
 
-      .navbutton{
+      .navbutton{ /*individual navigation links*/
         color:antiquewhite;
         text-decoration:none;
         margin:0px 10px 0px 0px;
@@ -32,4 +32,16 @@
       #sentismall{
         color:aliceblue;
         text-decoration:none;
+      }
+
+      /*whole art gallery*/
+      #gallery{
+        margin:5%;
+        padding:10px;
+        background-color:rgb(63, 57, 105);
+        display:grid;
+      }
+
+      #artwork{ /*individual artpieces*/
+        height:400px;
       }
