@@ -37,12 +37,11 @@
 
       /*whole art gallery*/
       #gallery{
-        margin:0% 5%;
+        margin:0% 2%;
         background-color:rgb(69, 62, 122);
         display:grid;
       }
 
       .artwork{ /*individual artpieces*/
         height:400px;
-        margin:1px;
       }
