@@ -36,8 +36,8 @@
 
       /*whole art gallery*/
       #gallery{
-        margin:5%;
-        padding:10px;
+        margin:0% 5%;
+        padding:1px;
         background-color:rgb(63, 57, 105);
         display:grid;
       }
